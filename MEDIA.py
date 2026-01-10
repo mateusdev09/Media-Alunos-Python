@@ -14,5 +14,3 @@ match media:
         print("O aluno é exemplar")
     case _ if media == 10:
         print("Espetacular!")
-    case _:
-        print("Bom desempenho")
